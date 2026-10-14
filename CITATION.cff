@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you refer to this resource, please cite it as below."
+title: "ChatDok Cardiovascular Health Data Research"
+type: dataset
+authors:
+  - name: "ChatDok GmbH"
+    website: "https://chatdok.com"
+    email: "hello@chatdok.com"
+repository-code: "https://github.com/chatdok-health/cardiovascular-health-data-research"
+url: "https://chatdok.com"
+abstract: >-
+  Documentation of the research potential, characteristics and responsible-use
+  principles of longitudinal real-world conversational data from the ChatDok
+  platform, with a focus on cardiovascular care. No patient-level data is
+  released.
+keywords:
+  - cardiovascular
+  - real-world data
+  - conversational AI
+  - longitudinal data
+  - digital health
+license: CC-BY-4.0
+date-released: "2026-10-14"
